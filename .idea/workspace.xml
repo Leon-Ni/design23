@@ -7,14 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d5eb058-4cee-4f40-8ea9-4071c796ed48" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/command/Command.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/command/ConcreteCommandOff.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/command/ConcreteCommandOpen.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/command/Door.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/command/Invoker.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/command/test.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Observer.java" afterPath="$PROJECT_DIR$/src/observer/Observer.java" />
+      <change beforePath="$PROJECT_DIR$/src/prototype/ConcretePrototype.java" afterPath="$PROJECT_DIR$/src/prototype/ConcretePrototype.java" />
+      <change beforePath="$PROJECT_DIR$/src/simplefactory/Client.java" afterPath="$PROJECT_DIR$/src/simplefactory/Client.java" />
+      <change beforePath="$PROJECT_DIR$/src/singleton/Inner.java" afterPath="$PROJECT_DIR$/src/singleton/Inner.java" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/ConcreteStrategyA.java" afterPath="$PROJECT_DIR$/src/strategy/ConcreteStrategyA.java" />
+      <change beforePath="$PROJECT_DIR$/src/templatemethod/AbstractClass.java" afterPath="$PROJECT_DIR$/src/templatemethod/AbstractClass.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,84 +23,123 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AbsFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/abstractfactory/AbsFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbsProductA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/abstractfactory/AbsProductA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/Observer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcretePrototype.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prototype/ConcretePrototype.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simplefactory/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Inner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/singleton/Inner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteStrategyA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/strategy/ConcreteStrategyA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/templatemethod/AbstractClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/command/Command.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Door.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/Door.java">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factorymethod/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteCommandOpen.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ConcreteCommandOpen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteCommandOff.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ConcreteCommandOff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Invoker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/Invoker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/command/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="51">
+              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentConditionsDisplay.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/CurrentConditionsDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+              <folding>
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,51 +175,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/abstractfactory/ProductA.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/AbsProductA.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/AbsProductB.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/ProductA1.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/ProductA2.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/ProductB1.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/ProductB2.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/AbsFactory.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/ConcreatFactory1.java" />
-        <option value="$PROJECT_DIR$/src/simplefactory/ConcreatProduct.java" />
-        <option value="$PROJECT_DIR$/src/factorymethod/ConcreatProduct.java" />
-        <option value="$PROJECT_DIR$/src/simplefactory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/src/simplefactory/Product.java" />
-        <option value="$PROJECT_DIR$/src/simplefactory/Client1.java" />
-        <option value="$PROJECT_DIR$/src/simplefactory/Client.java" />
-        <option value="$PROJECT_DIR$/src/prototype/t/Prototype.java" />
-        <option value="$PROJECT_DIR$/src/prototype/t/ConcreteProto.java" />
-        <option value="$PROJECT_DIR$/src/prototype/t/test.java" />
-        <option value="$PROJECT_DIR$/src/prototype/t/clonetest.java" />
-        <option value="$PROJECT_DIR$/src/prototype/Prototype.java" />
-        <option value="$PROJECT_DIR$/src/prototype/ConcretePrototype.java" />
-        <option value="$PROJECT_DIR$/src/abstractfactory/testmain.java" />
-        <option value="$PROJECT_DIR$/src/factorymethod/test.java" />
-        <option value="$PROJECT_DIR$/src/simplefactory/test.java" />
-        <option value="$PROJECT_DIR$/src/singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/singleton/Inner.java" />
-        <option value="$PROJECT_DIR$/src/prototype/test.java" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/src/strategy/ConcreteStrategy.java" />
-        <option value="$PROJECT_DIR$/src/strategy/test.java" />
-        <option value="$PROJECT_DIR$/src/strategy/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/strategy/Context.java" />
-        <option value="$PROJECT_DIR$/src/strategy/ConcreteStrategyB.java" />
-        <option value="$PROJECT_DIR$/src/strategy/ConcreteStrategyA.java" />
         <option value="$PROJECT_DIR$/src/TemplateMethod/Coffee.java" />
         <option value="$PROJECT_DIR$/src/TemplateMethod/Tea.java" />
         <option value="$PROJECT_DIR$/src/TemplateMethod/test.java" />
         <option value="$PROJECT_DIR$/src/TemplateMethod/AbstractClass.java" />
-        <option value="$PROJECT_DIR$/src/templatemethod/AbstractClass.java" />
-        <option value="$PROJECT_DIR$/src/command/Command.java" />
         <option value="$PROJECT_DIR$/src/command/Door.java" />
         <option value="$PROJECT_DIR$/src/command/ConcreteCommandOpen.java" />
         <option value="$PROJECT_DIR$/src/command/ConcreteCommandOff.java" />
-        <option value="$PROJECT_DIR$/src/command/Invoker.java" />
         <option value="$PROJECT_DIR$/src/command/test.java" />
+        <option value="$PROJECT_DIR$/src/observer/Subject.java" />
+        <option value="$PROJECT_DIR$/src/observer/StatisticsDisplay.java" />
+        <option value="$PROJECT_DIR$/src/observer/CurrentConditionsDisplay.java" />
+        <option value="$PROJECT_DIR$/src/simplefactory/test.java" />
+        <option value="$PROJECT_DIR$/src/simplefactory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/simplefactory/Client1.java" />
+        <option value="$PROJECT_DIR$/src/simplefactory/Product.java" />
+        <option value="$PROJECT_DIR$/src/factorymethod/Product.java" />
+        <option value="$PROJECT_DIR$/src/factorymethod/Factorymethod.java" />
+        <option value="$PROJECT_DIR$/src/factorymethod/ConcreatProduct.java" />
+        <option value="$PROJECT_DIR$/src/factorymethod/test.java" />
+        <option value="$PROJECT_DIR$/src/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/abstractfactory/ConcreatFactory1.java" />
+        <option value="$PROJECT_DIR$/src/abstractfactory/AbsProductA.java" />
+        <option value="$PROJECT_DIR$/src/abstractfactory/AbsProductB.java" />
+        <option value="$PROJECT_DIR$/src/abstractfactory/testmain.java" />
+        <option value="$PROJECT_DIR$/src/prototype/Prototype.java" />
+        <option value="$PROJECT_DIR$/src/templatemethod/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/templatemethod/Tea.java" />
+        <option value="$PROJECT_DIR$/src/templatemethod/test.java" />
+        <option value="$PROJECT_DIR$/src/command/Invoker.java" />
+        <option value="$PROJECT_DIR$/src/strategy/Context.java" />
+        <option value="$PROJECT_DIR$/src/strategy/test.java" />
+        <option value="$PROJECT_DIR$/src/observer/test.java" />
+        <option value="$PROJECT_DIR$/src/observer/WeatherData.java" />
+        <option value="$PROJECT_DIR$/src/templatemethod/README.txt" />
+        <option value="$PROJECT_DIR$/src/strategy/README.txt" />
+        <option value="$PROJECT_DIR$/src/singleton/README.txt" />
+        <option value="$PROJECT_DIR$/src/simplefactory/README.txt" />
+        <option value="$PROJECT_DIR$/src/prototype/README.txt" />
+        <option value="$PROJECT_DIR$/src/observer/README.txt" />
+        <option value="$PROJECT_DIR$/src/command/README.txt" />
+        <option value="$PROJECT_DIR$/src/factorymethod/README.txt" />
+        <option value="$PROJECT_DIR$/src/abstractfactory/README.txt" />
+        <option value="$PROJECT_DIR$/src/abstractfactory/AbsFactory.java" />
+        <option value="$PROJECT_DIR$/src/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/factorymethod/Client.java" />
+        <option value="$PROJECT_DIR$/src/observer/Observer.java" />
+        <option value="$PROJECT_DIR$/src/prototype/ConcretePrototype.java" />
+        <option value="$PROJECT_DIR$/src/simplefactory/Client.java" />
+        <option value="$PROJECT_DIR$/src/singleton/Inner.java" />
+        <option value="$PROJECT_DIR$/src/strategy/ConcreteStrategyA.java" />
+        <option value="$PROJECT_DIR$/src/templatemethod/AbstractClass.java" />
       </list>
     </option>
   </component>
@@ -209,16 +253,35 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="true" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -227,10 +290,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="design23" type="58d84e3e:PackageViewProjectNode" />
+              <item name="design23" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,7 +320,7 @@
               <item name="design23" type="b2602c69:ProjectViewProjectNode" />
               <item name="design23" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,7 +334,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -273,6 +346,13 @@
       <recent name="strategy" />
       <recent name="simplefactory" />
       <recent name="abstractfactory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\软件\design23\design23\src\observer" />
+      <recent name="E:\软件\design23\design23\src\strategy" />
+      <recent name="E:\软件\design23\design23\src\command" />
+      <recent name="E:\软件\design23\design23\src\templatemethod" />
+      <recent name="E:\软件\design23\design23\src\prototype" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -287,7 +367,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test (5)">
+  <component name="RunManager" selected="Application.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -306,25 +386,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="simplefactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="simplefactory.test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design23" />
       <envs />
     </configuration>
     <configuration name="test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -392,6 +453,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="command.test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design23" />
+      <envs />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="observer.test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -554,19 +634,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.test (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.test (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.test (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.test (4)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.test (5)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.test (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.test (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.test (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.test (5)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.test (5)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.test (4)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.test (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.test (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.test (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.test (5)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.test (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.test (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -586,12 +666,14 @@
       <workItem from="1531359093954" duration="22459000" />
       <workItem from="1531445192018" duration="4000" />
       <workItem from="1531445238509" duration="629000" />
-      <workItem from="1531447958228" duration="6066000" />
+      <workItem from="1531447958228" duration="8166000" />
+      <workItem from="1531704609680" duration="13493000" />
+      <workItem from="1531792008955" duration="5005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29158000" />
+    <option name="totallyTimeSpent" value="49756000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -607,31 +689,31 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30899832" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27380952" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27380952" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17397882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30899832" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,82 +729,73 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/templatemethod/Tea.java">
+    <entry file="file://$PROJECT_DIR$/src/factorymethod/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="e#95#96#0" expanded="false" />
-            <element signature="e#137#138#0" expanded="false" />
-            <element signature="e#216#217#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templatemethod/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/strategy/ConcreteStrategyB.java">
+    <entry file="file://$PROJECT_DIR$/src/factorymethod/Factorymethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorymethod/ConcreatProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="e#114#115#0" expanded="false" />
             <element signature="e#155#156#0" expanded="false" />
+            <element signature="e#190#191#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templatemethod/AbstractClass.java">
+    <entry file="file://$PROJECT_DIR$/src/simplefactory/SimpleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#355#356#0" expanded="false" />
-            <element signature="e#399#400#0" expanded="false" />
-            <element signature="e#446#447#0" expanded="false" />
-            <element signature="e#490#491#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactory/ProductB2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactory/ProductB1.java">
+    <entry file="file://$PROJECT_DIR$/src/factorymethod/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactory/AbsFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/singleton/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactory/ProductA2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="251">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/abstractfactory/ConcreatFactory1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstractfactory/AbsProductB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -730,157 +803,129 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactory/AbsProductA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactory/AbsProductB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethod/ConcreatProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethod/Factorymethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethod/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simplefactory/Client1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simplefactory/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simplefactory/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/simplefactory/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/abstractfactory/ProductA2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethod/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/abstractfactory/ProductB1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/t/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/prototype/t/clonetest.java" />
-    <entry file="file://$PROJECT_DIR$/src/prototype/t/Prototype.java" />
-    <entry file="file://$PROJECT_DIR$/src/prototype/t/ConcreteProto.java" />
-    <entry file="jar://E:/java/jdk1.8.0_101/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/abstractfactory/ProductB2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstractfactory/testmain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/prototype/Prototype.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/abstractfactory/testmain.java">
+    <entry file="jar://E:/java/jdk1.8.0_101/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="203" column="42" lean-forward="false" selection-start-line="203" selection-start-column="42" selection-end-line="203" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templatemethod/Coffee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/factorymethod/test.java">
+    <entry file="file://$PROJECT_DIR$/src/templatemethod/Tea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/simplefactory/test.java">
+    <entry file="file://$PROJECT_DIR$/src/templatemethod/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/src/command/ConcreteCommandOpen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="204">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton/Inner.java">
+    <entry file="file://$PROJECT_DIR$/src/command/ConcreteCommandOff.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        <state relative-caret-position="170">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/test.java">
+    <entry file="file://$PROJECT_DIR$/src/command/Door.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/ConcretePrototype.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strategy/test.java">
+    <entry file="file://$PROJECT_DIR$/src/command/Invoker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -888,96 +933,23 @@
     <entry file="file://$PROJECT_DIR$/src/strategy/ConcreteStrategyB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
-            <element signature="e#114#115#0" expanded="false" />
-            <element signature="e#155#156#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strategy/ConcreteStrategyA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#114#115#0" expanded="false" />
-            <element signature="e#155#156#0" expanded="false" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/strategy/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#275#276#0" expanded="false" />
-            <element signature="e#315#316#0" expanded="false" />
-            <element signature="e#352#353#0" expanded="false" />
-            <element signature="e#383#384#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templatemethod/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="33" />
           <folding>
-            <element signature="e#98#99#0" expanded="false" />
-            <element signature="e#140#141#0" expanded="false" />
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#218#219#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templatemethod/Tea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="e#95#96#0" expanded="false" />
-            <element signature="e#137#138#0" expanded="false" />
-            <element signature="e#216#217#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templatemethod/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.README.swp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templatemethod/AbstractClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="e#355#356#0" expanded="false" />
-            <element signature="e#399#400#0" expanded="false" />
-            <element signature="e#446#447#0" expanded="false" />
-            <element signature="e#490#491#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -990,33 +962,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ConcreteCommandOff.java">
+    <entry file="file://$PROJECT_DIR$/src/strategy/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/StatisticsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/Invoker.java">
+    <entry file="file://$PROJECT_DIR$/src/observer/WeatherData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="221">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
           <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/Command.java">
+    <entry file="file://$PROJECT_DIR$/src/templatemethod/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategy/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplefactory/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prototype/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorymethod/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -1024,36 +1064,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ConcreteCommandOpen.java">
+    <entry file="file://$PROJECT_DIR$/src/abstractfactory/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstractfactory/AbsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstractfactory/AbsProductA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factorymethod/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/Door.java">
+    <entry file="file://$PROJECT_DIR$/src/observer/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prototype/ConcretePrototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplefactory/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/Inner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategy/ConcreteStrategyA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
           <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/test.java">
+    <entry file="file://$PROJECT_DIR$/src/templatemethod/AbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="408">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
