@@ -1,7 +1,7 @@
 package simplefactory;
 
 /**
- * 实现接口的 客户
+ * 实现接口的客户
  */
 public class Client implements Product {
     @Override
