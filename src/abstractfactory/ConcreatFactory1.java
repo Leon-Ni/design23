@@ -1,5 +1,8 @@
 package abstractfactory;
 
+/**
+ * 由子类去创建对象家族
+ */
 public class ConcreatFactory1 extends AbsFactory {
     @Override
     AbsProductA creatProductA() {

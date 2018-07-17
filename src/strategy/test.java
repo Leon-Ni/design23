@@ -8,7 +8,7 @@ public class test {
         Context context = new Context();
         context.setStrategy(new ConcreteStrategyA());
         context.strategyalgorithm();
-        //State 对象发生改变
+        //State(new ConcreteStrategyB()) 对象发生改变,动态的改变算法.
         context.setStrategy(new ConcreteStrategyB());
         context.strategyalgorithm();
     }

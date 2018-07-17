@@ -1,7 +1,7 @@
 package strategy;
 
 /**
- * 使用到该算法族的类
+ * 使用到该算法族的类,能动态地改变 Context 所使用的算法
  */
 public class Context {
     private Strategy strategy;
