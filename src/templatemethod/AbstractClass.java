@@ -1,7 +1,7 @@
 package templatemethod;
 
 /**
- * 定义算法框架，并将一些步骤的实现延迟到子类;
+ * 定义算法框架，并将一些步骤的实现延迟到 子类;
  * 重复使用的方法可以在抽象类中实现;
  */
 public abstract class AbstractClass {
