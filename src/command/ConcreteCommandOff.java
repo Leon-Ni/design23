@@ -13,6 +13,9 @@ public class ConcreteCommandOff implements Command {
 
     @Override
     public void execute() {
+        //执行请求
         door.off();
     }
 }
+
+

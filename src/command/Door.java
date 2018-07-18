@@ -2,6 +2,7 @@ package command;
 
 /**
  * 命令的实际执行者
+ * 即请求类
  */
 public class Door {
     public void on(){
