@@ -8,11 +8,14 @@ package observer;
  */
 public class test {
     public static void main(String[] args) {
+        //交通信号灯
         WeatherData weatherData = new WeatherData();
-        //注册
+        //注册(观察信号灯)
         CurrentConditionsDisplay cd = new CurrentConditionsDisplay(weatherData);
         //注册
         StatisticsDisplay sd = new StatisticsDisplay(weatherData);
+        //信号灯变化
+        //在主题中回调观察者的方法,执行更新
         weatherData.setMeasurements(0,0,0);
         weatherData.setMeasurements(1,1,1);
 
